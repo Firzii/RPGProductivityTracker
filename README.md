@@ -80,8 +80,7 @@ Unlock achievement badges stored permanently on the blockchain:
 | Property         | Value                                                              |
 |------------------|--------------------------------------------------------------------|
 | **Network**      | Stellar Testnet                                                    |
-*contract id*               CAWWDJO4SD4XUXHUG23G7AC4HPRONIEHEFWY4W426ADYPEBULOUPMRHJ
-| **Contract ID**  | ``        |
+*contract id*        CAWWDJO4SD4XUXHUG23G7AC4HPRONIEHEFWY4W426ADYPEBULOUPMRHJ
 | **RPC Endpoint** | `https://soroban-testnet.stellar.org`                              |
 | **Explorer**     | [stellar.expert/testnet](https://stellar.expert/explorer/testnet)  |
 | **SDK Version**  | `soroban-sdk v21`                                                  |
